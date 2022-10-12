@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$BINARY\n" | bc
+declare -i a=2#$BINARY; echo a
