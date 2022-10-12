@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -i a=2#$BINARY; echo a
+echo "$((2#$BINARY))"
